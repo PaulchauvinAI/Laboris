@@ -7,6 +7,7 @@
 ## 🚀 À propos
 
 Laboris centralise et structure les principales sources du droit du travail français — Code du travail, jurisprudence, conventions collectives — afin d’offrir des **réponses fiables, claires et contextualisées**.
+
 L’objectif est simple : permettre aux professionnels du droit social et des ressources humaines de gagner du temps, d’améliorer la qualité de leurs analyses et de renforcer la sécurité juridique de leurs décisions.
 
 ---
